@@ -1,0 +1,45 @@
+body {
+  text-align : center;
+}
+
+.title {
+  font-size: xx-large;
+}
+
+.main {
+  /* margin: 20px 0; */
+  margin: auto;
+}
+.main img {
+  width : 300px;
+  vertical-align: middle;
+}
+
+.btn {
+  margin: 10px auto;
+}
+
+
+.thumbnails {
+  text-align: center;
+  /* opacity: 0.8; */
+  /* background-color: rgba(255,255,255, 0.5); */
+}
+.thumbnails img {
+  width: 50px;
+  opacity: 0.5;
+
+}
+
+.thumbnails img.selected {
+  opacity: 1.0;
+  /* background-color: rgba(255,255,255, 0.8); */
+}
+
+.navi {
+  text-align: center;
+}
+
+button {
+  font-size: 24px;
+}
